@@ -5,6 +5,16 @@
     color: white;
 }
 
+#lucky-number-success{
+    margin-top: 12px;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    background-color: #5FC3E4;
+    border: none;
+    outline: none;
+}
+
 .content {
     color: #df1548;
     font-size: 2rem;
